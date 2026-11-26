@@ -1,9 +1,10 @@
 # 3D model collection
 
-A collection of 3D models and their editable OpenSCAD sources. Each model has its own directory.
+A collection of 3D models and their editable sources. Each model has its own directory.
 
 ## Models
 
+- [BYD Destroyer 05](BYDDestroyer05/README.md) — Full-scale passenger car exterior with a Blender scene, GLB, editable geometry source, a [front outline overlay](BYDDestroyer05/checks/front_outline.jpg) and fitted cameras for six whole-car views and two close-ups.
 - [Juniper EX4500-40F-FB](JuniperEX4500/Juniper_EX4500.scad) — Exterior model of a rackmount network switch, in millimeters. The chassis dimensions come from the *EX4500 Switch Hardware Guide*. Connector depths and small hardware details are visual estimates.
 
 ## Using the OpenSCAD files
@@ -12,7 +13,7 @@ Open a `.scad` file in OpenSCAD and press **F5** to preview it. For the EX4500, 
 
 ## License and attribution
 
-The collection’s original OpenSCAD sources and model geometry, including mesh exports, are licensed under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](LICENSE).
+The collection’s original model sources and geometry, including mesh exports, are licensed under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](LICENSE).
 
 You may share and adapt the models for noncommercial purposes. When sharing a model or an adaptation, credit the author named in the source file, retain the copyright notice, link to the license, and indicate any changes.
 

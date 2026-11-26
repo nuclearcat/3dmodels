@@ -1,0 +1,4 @@
+# Local photo comparison sheets and Blender backups
+/.local/BYDDestroyer05/
+/BYDDestroyer05/checks/fit_*.jpg
+/BYDDestroyer05/Destroyer_05.blend[0-9]*
