@@ -1,4 +1,12 @@
+// SPDX-FileCopyrightText: 2026 Denys Fedoryshchenko
+// SPDX-License-Identifier: CC-BY-NC-4.0
+// Original source and model geometry: https://creativecommons.org/licenses/by-nc/4.0/
+// For commercial use or other licensing terms, contact denys.f@collabora.com.
+//
 // Juniper Networks EX4500-40F-FB  |  exterior assembly  |  millimeters
+// Product names and panel markings identify the depicted switch.
+// All trademarks and registered trademarks belong to their respective owners.
+//
 // Origin: front left bottom of chassis. +X right, +Y rear, +Z up.
 // Envelope from Juniper EX4500 Switch Hardware Guide (2017), Table 5.
 // Panel layout follows Figs. 4, 6, 9, 10, 16, 17, 18 and 21.
